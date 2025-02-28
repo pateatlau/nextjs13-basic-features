@@ -1,7 +1,11 @@
 'use client';
 import React, { ReactNode } from 'react';
 
-const Button: React.FC = (props: any) => {
+export interface ButtonProps {
+  label: string;
+}
+
+const Button: React.FC<ButtonProps> = (props: ButtonProps) => {
   return (
     <div className="mt-10">
       <button
