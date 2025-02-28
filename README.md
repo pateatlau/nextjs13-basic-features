@@ -1,8 +1,8 @@
-# Nextjs Basic Features
+# Nextjs 13 Basic Features
 
 ## Introduction
 
-This is a basic Nextjs project that demonstrates some of the basic features of Nextjs. It includes:
+This is a basic Nextjs project that demonstrates some of the basic features of Nextjs version 13. It includes:
 
 - Routing
 - Dynamic routing
