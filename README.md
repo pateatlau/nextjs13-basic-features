@@ -36,4 +36,10 @@ Next, run the following command to start the development server:
 npm run dev
 ```
 
+ot, to run from Docker:
+
+```bash
+docker run -p 2013:2013 nextjs13-basic-features:dev
+```
+
 The development server will start at `http://localhost:2013`. You can access the application by navigating to this URL in your web browser.

@@ -11,7 +11,7 @@ export default function Home() {
       <Link className="text-blue-500" href="/users/new">
         New User
       </Link>
-      <Button label="Click Me!" />
+      <Button label="Click Me! I'm a client component" />
     </main>
   );
 }
