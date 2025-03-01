@@ -36,7 +36,7 @@ Next, run the following command to start the development server:
 npm run dev
 ```
 
-ot, to run from Docker:
+or, to run from Docker:
 
 ```bash
 docker build -t next13-basic-features:dev .
